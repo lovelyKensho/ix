@@ -1,5 +1,24 @@
 # ix
+A humble experiment...
 
+> "In irum imus nocte et consumimur igni"
+
+## TODO
+
+* Guides
+  * Clojure
+  * Functional Programming
+* Create `.editorconfig`
+* Texts to add:
+  * HP Lovecraft
+  * Political Speeches
+  * Greek Texts
+* Create empty test files
+* Lists to add:
+  * Countries
+  * Languages
+  * Palindromes
+  * Dune Quotes
 
 ## License
 
