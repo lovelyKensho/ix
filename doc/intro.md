@@ -1,3 +1,7 @@
 # Introduction to ix
 
-TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)
+## Where to Start?
+
+## Rules
+
+1. Just keep writing

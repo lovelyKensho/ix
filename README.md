@@ -6,37 +6,42 @@ A humble experiment...
 
 ## Motivation
 
+1. Learn
+2. Create
+
 ## TODO
 
-- Setup Atom
 - Create lein profile
-- Guides
-
-  - Clojure
-  - Functional Programming
-  - Vim
-  - git
-
-- Create `.editorconfig`
-
 - Texts to add:
 
   - HP Lovecraft
   - Political Speeches
   - Greek Texts
 
-- Create empty test files
-
 - Lists to add:
 
   - Countries
-  - Languages
+
+    - Languages
+    - Language
+    - Population
+    - Currency
+    - Freedom Rating
+
   - Palindromes
-  - Dune Quotes
+  - Quotes
+
+    - Dune
+    - Movies
+    - Activists
+
   - Twitter users
+
   - Tweets
   - Songs I sing to my dog
   - Books
+  - Lullabies
+  - Super heroes
 
 ## License
 
