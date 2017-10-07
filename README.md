@@ -4,9 +4,12 @@ A humble experiment...
 
 > "In irum imus nocte et consumimur igni"
 
+## Motivation
+
 ## TODO
 
 - Setup Atom
+- Create lein profile
 - Guides
 
   - Clojure
@@ -33,6 +36,7 @@ A humble experiment...
   - Twitter users
   - Tweets
   - Songs I sing to my dog
+  - Books
 
 ## License
 
