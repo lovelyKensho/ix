@@ -14,3 +14,4 @@ Nothing is easy. In fact, everything is hard.
 - Should lists of things be in text files or written as data structures?
 - How do you do multiple selections in the Atom editor?
 - How do rhymes work?
+- How should I format my journal file?
