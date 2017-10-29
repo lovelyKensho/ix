@@ -6,6 +6,8 @@
 
 ;; --- The start ---
 
+;; Data
+
 (def first-name "Alexander")
 (def last-name "Guerra")
 
@@ -46,17 +48,11 @@
 
 (def stop-words nil)
 
-"smile"
-(proto-repl-charts.charts/line-chart
- "asdf"
- {"apples" [1 2 7 8]
-  "Oranges" [5 3 1 0]})
+;; “This is the worst kind of discrimination there is: the kind against me!”
+;; - Bender
 
-(def tester nil)
-
-(nil? 1)
-
-(nil? nil)
+;; Hahahahaha. Oh wait you’re serious. Let me laugh even harder.”
+;; - Bender
 
 (defn -main
   "I don't do a whole lot ... yet."
