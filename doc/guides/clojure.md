@@ -23,9 +23,19 @@ Clojure recognizes two kinds of structures...
 
 6. value
 
+prefix notation
+
 `(operator operand1 operand2 ... operandn)`
 
+`(my-function arg1 arg2)`
+
 > Clojure treats commas as white space
+
+### REPL
+
+> **Read-Eval-Print-Loop**
+
+> The notion of "code is data" is difficult to grasp at first.
 
 ## Tooling
 
@@ -41,7 +51,19 @@ Clojure recognizes two kinds of structures...
 
 # Data Types
 
-## Atomic
+> Code is data.
+
+## Scalars
+
+- Integers
+- Floats
+- Rationals
+- Symbols
+- Keywords
+- Strings
+- Characters
+- Booleans
+- Regex patterns
 
 ### Boolean
 
@@ -50,6 +72,10 @@ Clojure recognizes two kinds of structures...
 ### Nothing
 
 `nil`
+
+### numbers
+
+> Numbers are so fundamental it's not even funny!
 
 ## Collections
 
@@ -103,3 +129,28 @@ Clojure recognizes two kinds of structures...
 ## when
 
 > Clojure uses the Boolean operators or and and. or returns either the first truthy value or the last value. and returns the first falsey value or, if no values are falsey, the last truthy value.
+
+## Valid Clojure Expressions
+
+- Numbers
+- Symbols
+- Keywords
+- Boolean's
+- Characters
+- Functions
+- Function Calls
+- Macros
+- Strings
+- Literal Maps
+- Vectors
+- Queues
+- Records
+- Sets
+
+Some expressions are self evaluating...
+
+- numbers
+- strings
+- keywords
+
+You can write source comments, by marking the beginning of a line with a semicolon (;).)

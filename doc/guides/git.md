@@ -16,6 +16,8 @@
 
 `git add --a`
 
+`git clone <repo>`
+
 ## Branching
 
 ## Merging & Rebasing
