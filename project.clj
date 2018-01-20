@@ -9,3 +9,4 @@
             :main ^:skip-aot ix.core
             :target-path "target/%s"
             :profiles {:uberjar {:aot :all}})
+
