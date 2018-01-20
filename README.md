@@ -11,6 +11,7 @@ A humble experiment...
 
 ## TODO
 
+- Stop words
 - Create lein profile
 - Texts to add:
 
@@ -29,6 +30,7 @@ A humble experiment...
     - Freedom Rating
 
   - Palindromes
+
   - Quotes
 
     - Dune
@@ -38,6 +40,7 @@ A humble experiment...
   - Twitter users
 
   - Tweets
+
   - Songs I sing to my dog
   - Books
   - Lullabies
