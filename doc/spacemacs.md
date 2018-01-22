@@ -4,4 +4,6 @@
 
 [Good Site](https://spin.atomicobject.com/2017/02/16/clojure-development-in-spacemacs/)
 
-## Window Manegment
+## Window Management
+
+[OSX Layer](http://spacemacs.org/layers/+os/osx/README.html)
