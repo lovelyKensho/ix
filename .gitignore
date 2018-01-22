@@ -10,4 +10,7 @@ pom.xml.asc
 .hgignore
 .hg/
 
+# IDEs
+/.idea
+
 /output
