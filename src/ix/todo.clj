@@ -24,7 +24,8 @@
                     "Super Heros"
                     "Movies"
                     "Songs"
-                    "Bands"])
+                    "Bands"
+                    "Stop words"])
 
 (def clean-house-todo {:name "Clean house"
                        :date-due 123

@@ -15,3 +15,5 @@ Nothing is easy. In fact, everything is hard.
 - How do you do multiple selections in the Atom editor?
 - How do rhymes work?
 - How should I format my journal file?
+
+I need a quick way to append my thoughts to a specific file
