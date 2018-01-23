@@ -13,7 +13,18 @@
 (def lists-to-make ["Countries"
                     "Constants"
                     "Baby names"
-                    "Musical Artists"])
+                    "Musical Artists"
+                    "Languages"
+                    "Currencies"
+                    "Freedom Ratings"
+                    "Palindromes"
+                    "Quotes"
+                    "Books"
+                    "Lullabies"
+                    "Super Heros"
+                    "Movies"
+                    "Songs"
+                    "Bands"])
 
 (def clean-house-todo {:name "Clean house"
                        :date-due 123
