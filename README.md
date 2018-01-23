@@ -19,33 +19,6 @@ A humble experiment...
   - Political Speeches
   - Greek Texts
 
-- Lists to add:
-
-  - Countries
-
-    - Languages
-    - Language
-    - Population
-    - Currency
-    - Freedom Rating
-
-  - Palindromes
-
-  - Quotes
-
-    - Dune
-    - Movies
-    - Activists
-
-  - Twitter users
-
-  - Tweets
-
-  - Songs I sing to my dog
-  - Books
-  - Lullabies
-  - Super heroes
-
 ## License
 
 Copyright © 2017 Alexander Guerra
