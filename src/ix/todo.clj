@@ -6,7 +6,14 @@
             "Get auto-indenting to work"
             "Think: How should a todo list work"
             "Make idea system"
-            "Comments should not be italic"])
+            "Comments should not be italic"
+            "Pick new theme"
+            "Take Ada to the vet"])
+
+(def lists-to-make ["Countries"
+                    "Constants"
+                    "Baby names"
+                    "Musical Artists"])
 
 (def clean-house-todo {:name "Clean house"
                        :date-due 123

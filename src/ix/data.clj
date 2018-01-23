@@ -6,5 +6,18 @@
 ;; Just have fun with it...
 (def super-hero-names ["Super Ada"])
 
+(def super-heros ["Superman"
+                  "Aquaman"
+                  "Wonder Woman"
+                  "Batman"
+                  "Cyborg"])
+
 (def foods ["Soup"
-            "Sushi"])
+            "Sushi"
+            "Pizza"])
+
+(def fun-words ["dither"])
+
+(def countries ["USA"
+                "Japan"
+                "Ireland"])
