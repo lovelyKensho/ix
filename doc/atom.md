@@ -20,3 +20,4 @@
 
 - [Prot-REPL](https://github.com/jasongilman/proto-repl)
 - [Internal Git](https://github.com/atom/github/issues/174)
+- [Atom Clojure Setup](https://gist.github.com/jasongilman/d1f70507bed021b48625)
