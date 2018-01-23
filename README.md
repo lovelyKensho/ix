@@ -8,12 +8,9 @@ A humble experiment...
 
 1. Learn
 2. Create
+3. Gain **INSIGHT**
 
-## TODO
-
-- Stop words
-- Create lein profile
-- Texts to add:
+4. Texts to add:
 
   - HP Lovecraft
   - Political Speeches
