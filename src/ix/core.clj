@@ -1,4 +1,5 @@
 (ns ix.core
+  (:require [ix.api.quotes :as quote])
   (:gen-class))
 
 ;; --- The start ---
