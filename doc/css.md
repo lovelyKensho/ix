@@ -37,7 +37,10 @@ Direction of flex items
 
 - Like the row-reverse property, you can swap the top-to-bottom direction of a column with the value column-reverse.
 
-[Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+## Links
+
+- [Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexplorer](http://bennettfeely.com/flexplorer/)
 
 ### Flex-Direction
 

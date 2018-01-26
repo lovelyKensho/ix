@@ -12,3 +12,5 @@ Clojure recognizes two types of structures...
 > Clojure evaluates every expression to produce a value
 
 What is an operand?
+
+[Clojure-doc](http://clojure-doc.org/)
