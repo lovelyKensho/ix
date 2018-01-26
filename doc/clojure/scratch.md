@@ -13,4 +13,5 @@ Clojure recognizes two types of structures...
 
 What is an operand?
 
-[Clojure-doc](http://clojure-doc.org/)
+- [Clojure-doc](http://clojure-doc.org/)
+- [Clojure Cheatsheet](https://clojure.org/api/cheatsheet)
