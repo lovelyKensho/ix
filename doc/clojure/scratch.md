@@ -15,3 +15,7 @@ What is an operand?
 
 - [Clojure-doc](http://clojure-doc.org/)
 - [Clojure Cheatsheet](https://clojure.org/api/cheatsheet)
+
+> "My hot body, it is. Do what I want, I will."
+
+> -**Yoda** (First Convention of the High Jedi Counsel)

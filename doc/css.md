@@ -41,10 +41,12 @@ Direction of flex items
 
 - [Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flexplorer](http://bennettfeely.com/flexplorer/)
+- [CSS Selectors](https://www.w3schools.com/cssref/css_selectors.asp)
 
-### Flex-Direction
+  ### Flex-Direction
 
 - row
+
 - row-reverse
 
 ### Flex line
