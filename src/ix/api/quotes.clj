@@ -42,7 +42,9 @@
   []
   (let [response (get-a-quote-text)
         converted-text (request-yoda-speak-conversion response)]
-    (str response " --> " converted-text)))
+    (do (println response)
+        (println "\n --> \n")
+        (println converted-text))))
 
 (defn get-yoda-quotes
   [number-of-quotes]
